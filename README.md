@@ -20,7 +20,7 @@ A simple Flutter application that demonstrates how to create a counter with pers
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/tugyy/1030510263-mobile-app-project.git
 ```
 
 2. Navigate to the project directory:
